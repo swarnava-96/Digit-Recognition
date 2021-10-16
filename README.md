@@ -1,7 +1,7 @@
 # Digit-Recognition
-### Goal: The Goal of this project is to recognize digits using ANN on Keras MNIST data set.
+### Goal: The Goal of this mini project is to recognize digits using ANN on Keras MNIST data set.
 
-### Data set: 
+### About the data set: 
 I have used the Keras inbuilt MNIST data set that contains 70K 28x28 gray scale of the 10 digits.
 
 ### Project Description:
