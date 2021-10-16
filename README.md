@@ -9,7 +9,9 @@ I have loaded the data into train and test sets and scaled down between 0-1. A t
 Then the model was trained for 10 epochs with optimizer as Adam, loss as sparse categorical cross entropy, metrics as accuracy and with a batch size of 64. Model performed well giving a training accuracy of 99% and validation accuracy of 97.6%. 
 
 The below image shows the training vs validation loss:
+
 ![image](https://user-images.githubusercontent.com/75041273/137603589-9e01dbc4-af6e-4044-b3af-2e62002d6a36.png)
 
 The below image shows the training vs validation accuracy:
+
 ![image](https://user-images.githubusercontent.com/75041273/137603606-38a517cf-fcc1-448e-aae1-420209ad8650.png)
