@@ -2,7 +2,7 @@
 ### Goal: The Goal of this mini project is to recognize digits using ANN on Keras MNIST data set.
 
 ### About the data set: 
-I have used the Keras inbuilt MNIST data set that contains 70K 28x28 gray scale images of 10 digits (0-9).
+I have used the Keras inbuilt MNIST data set that contains 70K 28x28 gray scale hand written images of 10 digits (0-9).
 
 ### Project Description:
 I have loaded the data into train and test sets and scaled down between 0-1. A three layer neural network ANN model was built. Initially, the first layer was flattened from 2D to 1D. Then a Dense layer was added having 128 neurons with activation function relu and finally an output layer was added with 10 output classes and activation function as soft max.
